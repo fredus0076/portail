@@ -1,0 +1,12 @@
+{
+  "PORTAIL" : {
+    "TITLE": "PORTAIL",
+    "SUBTITLE": "Resize this responsive page to see the effect!",
+    "COLOMN_1": "LOOKING",
+    "COLOMN_1_DESCRIPTION": "Lorem ipsum dolor Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit ex pariatur reprehenderit aliquid, ipsa, facilis non iusto repudiandae eaque provident libero quae maiores odio nesciunt accusamus exercitationem eos nobis voluptate.",
+    "COLOMN_2": "TESTING",
+    "COLOMN_2_DESCRIPTION": "Sit ex pariatur reprehenderit aliquid, ipsa, facilis non iusto repudiandae eaque provident libero quae maiores odio nesciunt accusamus exercitationem eos nobis voluptate. Sit ex pariatur reprehenderit aliquid, ipsa, facilis non iusto repudiandae eaque provident libero quae maiores odio nesciunt accusamus exercitationem eos nobis voluptate.",
+    "COLOMN_3": "VALIDATION",
+    "COLOMN_3_DESCRIPTION": "Lorem ipsum dolor Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit ex pariatur reprehenderit aliquid, ipsa, facilis non iusto repudiandae eaque provident libero quae maiores odio nesciunt accusamus exercitationem eos nobis voluptate."
+  }
+}
